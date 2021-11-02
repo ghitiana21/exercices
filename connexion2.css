@@ -1,0 +1,53 @@
+.formulaire{
+	margin:0;
+}
+form{
+	border: 1px solid rgb(159,159,159);
+	width:350px;
+}
+.container{
+	margin-top:40px;
+	height:50px;
+	background-color:blue;
+	justify-content:space-between;
+
+	
+}
+.container a{
+	color:white;
+	margin-left:40px;
+
+}
+section{
+	margin-top:-20px;
+	background-color:blue;
+	justify-content:space-between;
+	
+}
+p{
+	font-size:80%;
+	
+label{
+	margin-left:20px;
+}
+input{
+	margin-left:20px;
+	margin-top:13px;
+	font-size:25px;
+}
+.Titre{
+	height:50px;
+	background-color:blue;
+}
+H1{
+	color:white;
+	margin-left:20px;
+}
+.btn{
+	margin-left:200px;
+	font-size:17px;
+	background-color:blue;
+	color:white;
+	cursor:pointer;
+	border-radius:5px;
+}
